@@ -40,7 +40,6 @@
 operator    : Aaditya Agarwal
 designation : B.Tech CSE (AI & ML) — VIT Bhopal, Expected 2029
 location    : Firozabad, Uttar Pradesh, India
-gpa         : 9.22
 status      : Open to internships and research collaborations
 
 thesis:
@@ -84,7 +83,7 @@ currently:
 **A local 7B model performing repository-level code modification — zero cloud, zero fine-tuning.**
 
 [![Open VSX](https://img.shields.io/badge/OPEN_VSX-210%2B_installs-238636?style=for-the-badge&labelColor=161B22)](https://open-vsx.org/extension/aaditya8979/vector-coder)
-[![Preprint](https://img.shields.io/badge/RESEARCH-Preprint-6E40C9?style=for-the-badge&labelColor=161B22)](https://zenodo.org)
+[![Preprint](https://img.shields.io/badge/RESEARCH-Preprint-6E40C9?style=for-the-badge&labelColor=161B22)](https://zenodo.org/records/20708135?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjdkYTBmNzMwLTU3ZGUtNGY3My1iYWRhLWY3ZTU3NTZjMDY2YSIsImRhdGEiOnt9LCJyYW5kb20iOiIxZDQ1ZWZiOTBkZmFjY2Y0NjNjNWRkY2FlNmVkYzBlZSJ9.qm45K-tCBvYffi9Bth0DD3rZ88tzsRzTh4jF0MAFS4H1H2p2TXE2Q1nO_HCjfstjiSjyxLS4qna_wT6rClf2bg)
 [![GitHub](https://img.shields.io/badge/GITHUB-VECTOR-1F6FEB?style=for-the-badge&logo=github&labelColor=161B22)](https://github.com/aaditya8979/VECTOR)
 
 Compresses 50,000+ token repositories to ≤2,500 tokens via Code Property Graph
@@ -117,7 +116,7 @@ retries on partial API failures.
 
 **Intelligent LLM routing across 7 providers — cost-free inference at scale.**
 
-[![Live](https://img.shields.io/badge/LIVE-neuralops-238636?style=for-the-badge&labelColor=161B22)](https://neuralops.vercel.app)
+[![Live](https://img.shields.io/badge/LIVE-neuralops-238636?style=for-the-badge&labelColor=161B22)](https://neuralops-three.vercel.app)
 
 Routes queries across **Google, Groq, Anthropic, and OpenAI** by semantic complexity
 to maximise free-tier utilisation. Ships a Redis-backed circuit breaker with automatic
@@ -296,7 +295,7 @@ Reach out — collaboration, critique, or cold outreach, all signals welcome.
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=8B949E)](https://www.linkedin.com/in/aaditya-agarwal-457922379)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Read_my_essays-161B22?style=for-the-badge&logo=readme&logoColor=8B949E)](https://aaditya8979.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Read_my_essays-161B22?style=for-the-badge&logo=readme&logoColor=8B949E)](https://aadityaagarwal.vercel.app)
 
 </div>
 
